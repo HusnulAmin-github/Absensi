@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Kantor Desa",
+  "description": "Sistem Informasi Absensi Digital dan Manajemen Izin/Cuti Kantor Desa dengan peran Pegawai dan Admin, visualisasi statistik, serta simulasi radius lokasi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
